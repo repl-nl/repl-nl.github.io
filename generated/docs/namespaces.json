@@ -1,0 +1,10 @@
+{
+    "title": "shell",
+    "html": "<h1 id=\"shell\"> Shell </h1>\n\n<p>you can check out the details here or just jump right in by simply doing <code class=\"bash\" lang=\"bash\"> ssh repl </code> \n\n<p>Once you ssh into your repositories account you will have access to the a number of commands, you might notice a lot of them look like the ones offered in a shell. This is because what you are looking at is a shell! We offer a fully interactive shell to interact with both git, namespaces, and your account.</p>",
+    "landmarks": [
+        {
+            "title": "Shell",
+            "fragment": "shell"
+        }
+    ]
+}

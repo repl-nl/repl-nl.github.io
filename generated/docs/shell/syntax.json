@@ -1,0 +1,10 @@
+{
+    "title": "syntax",
+    "html": "<h1 id=\"syntax\">Shell language</h1>\n\n<p>\n    Currently we try to stick to the <code>sh</code> syntax as much as possible. However we have our\n    own builtins and some other limitations exist. Its good to keep in mind that most of the\n    functionality of a shell comes from external programs it calls into rather than its builtins\n    which form its language. The builtins and the syntax form the shell language.\n</p>\n<p>\n    A command can be called using the following syntax:\n    <code class=\"adamant-shell\" lang=\"adamant-shell\"> command [arguments]... </code>.\n</p>\n\n<p>\n    The square brackets surrounding\n    <code>arguments</code> mean that the arguments are optional. The <code>...</code> dots shows\n    that there can be any amount of arguments.\n</p>\n\n<p>\n    Statements must be terminated with a new line or semicolon\n    <code>;</code>. A line consists of a command and its arguments.\n</p>\n",
+    "landmarks": [
+        {
+            "title": "Language",
+            "fragment": "syntax"
+        }
+    ]
+}

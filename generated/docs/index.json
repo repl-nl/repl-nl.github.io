@@ -1,0 +1,18 @@
+{
+    "title": "Adamant Repositree",
+    "html": "<h1 id=\"adamant-repositories\">Adamant Repositree</h1>\n\n<p>\n    Welcome to Adamant Repositories.\n</p>\n\n<h2 id=\"getting-started\">Getting Started</h2>\n\n<p>\n    On linux and macOS You can use our automatic install script to provision an SSH key. The install\n    script will output the public key for you to send to us using the early-access form.\n</p>\n\n<pre><code class=\"bash\" lang=\"bash\">curl https://repl.to/setup | sh</code></pre>\n\n<p>\n    On windows you will have to either use the linux subsystem or do the configuration manually.\n</p>\n\n<h2 id=\"account\">\n    Making an account\n</h2>\n\n<p>\n    Adamant Repositories is currently in early access development. To access our services, please\n    register your interest and we will get back you when we are ready to accept the next round of\n    testers.\n</p>\n",
+    "landmarks": [
+        {
+            "title": "Adamant Repositree",
+            "fragment": "adamant-repositree"
+        },
+        {
+            "title": "Getting Started",
+            "fragment": "getting-started"
+        },
+        {
+            "title": "Making an account",
+            "fragment": "account"
+        }
+    ]
+}
